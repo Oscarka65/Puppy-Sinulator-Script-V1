@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Oscarka65/Puppy-Simulator-Script/main/PuppySimScript"))()
